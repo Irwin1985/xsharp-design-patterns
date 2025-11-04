@@ -1,5 +1,5 @@
 /*  
- Memento es un patrÛn de diseÒo de comportamiento que permite tomer instant·neas del estado
+ Memento es un patr√≥n de dise√±o de comportamiento que permite tomar instant√°neas del estado
  de un objeto y restaurarlo en el futuro.
 */
 USING System
@@ -138,3 +138,4 @@ BEGIN NAMESPACE RefactoringGuru.DesignPatterns.Memento.Conceptual
 		END METHOD
 	END CLASS
 END NAMESPACE
+
